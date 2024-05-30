@@ -29,7 +29,7 @@ I'm a Flutter and Android developer with a passion for mobile application develo
 ## 📫 Contact
 
 - **Email:** shiburaj525@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile]
+- **LinkedIn:** https://www.linkedin.com/in/shiburaj-rs-825572234
 
 
 ---
