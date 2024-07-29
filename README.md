@@ -19,7 +19,7 @@ I'm a Flutter and Android developer with a passion for mobile application develo
 
 ## 🚀 Latest Projects
 
-### Bark Buddy - ([https://github.com/shiburajrs/budget_buddy.git](https://github.com/shiburajrs/Bark-Buddy))
+### Bark Buddy - ((https://github.com/shiburajrs/Bark-Buddy))
 
 
 
