@@ -17,12 +17,10 @@ I'm a Flutter and Android developer with a passion for mobile application develo
 - **Tools:** Android studio, VScode, Xcode
 
 
-## 🚀 Projects
+## 🚀 Latest Projects
 
-### Budget Buddy - (https://github.com/shiburajrs/budget_buddy.git)
+### Bark Buddy - ([https://github.com/shiburajrs/budget_buddy.git](https://github.com/shiburajrs/Bark-Buddy))
 
-
-- 🔧 Technologies used: Flutter, Sqflite
 
 
 
