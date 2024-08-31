@@ -19,7 +19,7 @@ I'm a Flutter and Android developer with a passion for mobile application develo
 
 ## 🚀 Latest Projects
 
-### Bark Buddy - ((https://github.com/shiburajrs/Bark-Buddy))
+### Tic Tac Toe Game - https://github.com/shiburajrs/tic-tac-toe-game.git
 
 
 
