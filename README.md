@@ -13,16 +13,8 @@ I'm a Flutter and Android developer with a passion for mobile application develo
 ## 🛠️ Skills
 
 - **Languages:** Dart, Kotlin, Java
-- **Frameworks:** Android, Flutter
+- **Frameworks:** Android, Flutter, Jetpack compose
 - **Tools:** Android studio, VScode, Xcode
-
-
-## 🚀 Latest Projects
-
-### Tic Tac Toe Game - https://github.com/shiburajrs/tic-tac-toe-game.git
-
-
-
 
 ## 📫 Contact
 
